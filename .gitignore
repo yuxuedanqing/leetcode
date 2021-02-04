@@ -12,3 +12,5 @@ buildNumber.properties
 *.gitignore
 *.misc.xml
 *.class
+out/
+*.iml
