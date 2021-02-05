@@ -1,9 +1,7 @@
-package com.snails;
+package com.snails.array;
 
 import java.util.HashMap;
-import java.util.LinkedList;
 import java.util.Map;
-import java.util.Queue;
 
 /**
  * https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/

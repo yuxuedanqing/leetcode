@@ -1,4 +1,4 @@
-package com.snails;
+package com.snails.array;
 
 /**
  * https://leetcode-cn.com/problems/running-sum-of-1d-array/

@@ -1,4 +1,4 @@
-package com.snails;
+package com.snails.array;
 
 /**
  * https://leetcode-cn.com/problems/number-of-good-pairs/

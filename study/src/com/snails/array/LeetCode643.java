@@ -1,9 +1,4 @@
-package com.snails;
-
-import java.math.BigDecimal;
-import java.math.RoundingMode;
-import java.util.*;
-import java.util.stream.Stream;
+package com.snails.array;
 
 /**
  * https://leetcode-cn.com/problems/maximum-average-subarray-i/

@@ -1,6 +1,4 @@
-package com.snails;
-
-import java.util.Arrays;
+package com.snails.array;
 
 /**
  * https://leetcode-cn.com/problems/richest-customer-wealth/
