@@ -23,8 +23,6 @@ import java.util.List;
  */
 public class Offer24 {
 
-    private LinkedList<ListNode> first = new LinkedList<>();
-
     public ListNode reverseList(ListNode head) {
         ListNode cur = head, pre = null;
         while (null != cur) {
@@ -37,7 +35,7 @@ public class Offer24 {
     }
 
     public static void main(String[] args) {
-        ListNode listNode = new ListNode(3);
+        ListNode listNode = new ListNode(5);
         Offer24 offer24 = new Offer24();
         ListNode listNode1 = offer24.createListNode(listNode, 5);
         ListNode listNode2 = offer24.reverseList(listNode1);

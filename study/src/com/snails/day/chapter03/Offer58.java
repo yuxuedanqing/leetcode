@@ -37,7 +37,7 @@ public class Offer58 {
                 cur.append(chars[i]);
             }
         }
-        cur.append(sb.toString());
+        cur.append(sb);
         return cur.toString();
     }
 
