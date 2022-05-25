@@ -1,8 +1,5 @@
 package com.snails.day.chapter02;
 
-import java.util.LinkedList;
-import java.util.List;
-
 /**
  * @author Snails
  * @date 2021/11/17 20:05

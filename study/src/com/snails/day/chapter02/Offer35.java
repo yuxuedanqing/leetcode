@@ -1,10 +1,7 @@
 package com.snails.day.chapter02;
 
 import java.util.HashMap;
-import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.TreeMap;
-import java.util.function.BiConsumer;
 
 /**
  * @author Snails
