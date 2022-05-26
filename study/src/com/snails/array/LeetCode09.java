@@ -1,9 +1,5 @@
 package com.snails.array;
 
-import java.sql.Array;
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * <a href="https://leetcode.cn/problems/palindrome-number/">回文数</a>
  *
