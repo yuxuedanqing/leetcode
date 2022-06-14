@@ -1,5 +1,7 @@
 package com.snails.day.chapter02;
 
+import com.snails.common.ListNode;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -60,13 +62,5 @@ public class Office06 {
         one.next = two;
         two.next = three;
         return one;
-    }
-}
-
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) {
-        val = x;
     }
 }

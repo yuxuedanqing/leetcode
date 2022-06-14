@@ -1,5 +1,7 @@
 package com.snails.day.chapter02;
 
+import com.snails.common.ListNode;
+
 /**
  * @author Snails
  * @date 2021/11/17 20:05
